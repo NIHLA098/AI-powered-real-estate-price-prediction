@@ -66,6 +66,10 @@ This project demonstrates how **AI and Machine Learning** can enhance **real est
 
 ---
 
+🔗 [Open in Google Colab](https://colab.research.google.com/drive/1Zq5Kcnvy-0cFszGD64iChChSEfm2rbNw?usp=sharing)
+
+
+
 ## 📬 Let's Connect
 
 - 
